@@ -1,4 +1,4 @@
-from exploratory import data1
+from exploratory import *
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import r2_score
 X2=data1[["Age","Treated","Weight","Height","ScaledBMI"]]

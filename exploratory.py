@@ -1,6 +1,5 @@
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as pyplot
 data1=pd.read_csv("C:\\Users\Sachin Jain\Desktop\dcker_test\Ex03_SystolicBP_Regreesion.csv")
 from sklearn.model_selection import train_test_split
 X=data1.iloc[:,0:-1]

@@ -1,5 +1,5 @@
-from model_1 import model_1_score
-from model_2 import model_2_score
+from model_1 import *
+from model_2 import *
 
 if model_1_score>model_2_score:
    print("model_1 is better ")

@@ -1,4 +1,5 @@
-
+from model_1 import model_1_score
+from model_2 import model_2_score
 
 from datetime import datetime
 

@@ -1,6 +1,5 @@
 
-from model_1 import *
-from model_2 import *
+
 from datetime import datetime
 
 datestring = datetime.strftime(datetime.now(), '%Y-%m-%d-%H-%M-%S')

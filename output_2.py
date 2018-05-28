@@ -15,6 +15,6 @@ elif model_1_score < model_2_score:
     file.write("model_2 score is")
     file.write(model_2_score)
 else:
-file.write("Both model have equal accuracy")
+    file.write("Both model have equal accuracy")
 
 file.close()

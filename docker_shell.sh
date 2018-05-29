@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "some file content"
+
 
 cd docker__assignment_1
 python exploratory.py

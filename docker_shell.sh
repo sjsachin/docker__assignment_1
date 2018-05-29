@@ -1,6 +1,4 @@
 #!/bin/bash
-
-
 cd docker__assignment_1
 python exploratory.py
 python model_1.py
